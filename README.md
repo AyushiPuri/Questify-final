@@ -1,3 +1,5 @@
+![Screenshot (8)](https://github.com/AyushiPuri/Questify-final/assets/142603987/6beb15fa-ec92-4d20-9c19-b3c238b6dc92)
+
 ### install these after installing miniconda
 
 1. create environment
@@ -19,3 +21,4 @@ pip install -r requirements.txt
 ```
 streamlit run app.py
 ```
+
